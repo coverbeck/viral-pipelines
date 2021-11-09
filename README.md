@@ -66,3 +66,5 @@ In the above example, reads from two sequencing runs are aligned and merged toge
 ## Available workflows
 
 The workflows provided here are more fully documented at our [ReadTheDocs](https://viral-pipelines.readthedocs.io/en/latest/workflows.html) page.
+
+Test
