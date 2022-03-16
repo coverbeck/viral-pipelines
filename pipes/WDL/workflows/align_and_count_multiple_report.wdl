@@ -1,5 +1,7 @@
 version 1.0
 
+# This is a test
+
 import "../tasks/tasks_reports.wdl" as reports
 
 workflow align_and_count_multiple_report {
